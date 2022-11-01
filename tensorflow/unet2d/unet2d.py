@@ -1,7 +1,7 @@
 '''
 Reference: https://github.com/96imranahmed/3D-Unet
 
-
+The above mentioned repo implemented a 3D U-Net using tensorflow (no Keras). I have changed it for 2d U-Net. Besides, this implementation supports Keras API. 
 '''
 
 import tensorflow as tf
